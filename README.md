@@ -1,6 +1,6 @@
 # 🚀 Speed Test CLI
 
-Um utilitário interativo de teste de velocidade de internet com barras de progresso animadas e métricas detalhadas, desenvolvido em Python usando speedtest-cli.
+Um utilitário interativo de teste de velocidade de internet, desenvolvido em Python usando speedtest-cli.
 
 ![Python](https://img.shields.io/badge/python-3.6+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
@@ -95,17 +95,6 @@ O programa seleciona automaticamente o melhor servidor baseado em:
 - Proximidade geográfica
 - Latência
 - Disponibilidade
-
-## 🎯 Funcionalidades futuras
-
-- [ ] Salvar histórico de testes em arquivo JSON/CSV
-- [ ] Gerar gráficos de desempenho ao longo do tempo
-- [ ] Adicionar modo verbose com informações detalhadas
-- [ ] Implementar testes agendados (cron-like)
-- [ ] Exportar resultados em diferentes formatos
-- [ ] Adicionar alertas quando a velocidade cair abaixo de um limite
-- [ ] Interface GUI opcional
-- [ ] Comparação com testes anteriores
 
 ## 🤝 Contribuindo
 
