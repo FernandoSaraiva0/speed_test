@@ -1,5 +1,4 @@
-# 🚀 Speed Test CLI
-
+# 🚀 Speed Test
 Um utilitário interativo de teste de velocidade de internet, desenvolvido em Python usando speedtest-cli.
 
 ![Python](https://img.shields.io/badge/python-3.6+-blue.svg)
